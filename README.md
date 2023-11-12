@@ -1,44 +1,21 @@
-# Snake
+# Overview
 
-Eat as much fruit as you can before you eat yourself!
+In a past class we wrote a snake game for one person for them to aqcuire food. With this new iteration i modified the code and allowed for the player to play agaisnt another. I did this to refresh my knowledge of C# and better write actors and class based programming.
 
----
 
-## Getting Started
+[Software Demo Video](http://youtube.link.goes.here)
 
-Make sure you have dotnet 6.0 or newer installed on your machine. Open
-a terminal and browse to the project's root folder. Start the program
-by running the following commands.
+# Development Environment
 
-```
-dotnet build
-dotnet run
-```
+Tools used to develop this are dotNet and Raylib
 
-You can also run the program from an IDE like Visual Studio Code.
-Start your IDE and open the project folder. Select "Run and Debug" on
-the Activity Bar. Next, select the project you'd like to run from the
-drop down list at the top of the Side Bar. Lastly, click the green
-arrow or "start debugging" button.
+# Useful Websites
 
-## Project Structure
+- [Web Site Name](https://www.raylib.com/)
+- [Web Site Name](https://dotnet.microsoft.com/en-us/)
 
-The project files and folders are organized as follows:
+# Future Work
 
-```
-root                    (project root folder)
-+-- Game                (source code folder)
-+-- Program.cs          (program entry point)
-+-- README.md           (general info)
-+-- Unit04.csproj       (dotnet project file)
-```
+{Make a list of things that you need to fix, improve, and add in the future.}
 
-## Required Technologies
-
-- dotnet 6.0
-- raylib-cs 3.7.0.1
-
-## Authors
-
-- Matt Manley (manleym@byui.edu)
-- Scott Burton (burtons@byui.edu)
+- I would like to add more iteraction and sequencing between players and allow for the tails of each tron/snake to grow starting from a smaller size.
